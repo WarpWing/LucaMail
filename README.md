@@ -34,20 +34,18 @@
 ## About The Project
 
  <p align="center"><img src="https://imgur.com/A2xKUvn.png"></p>
-LucaMail is an Open Source,Cross Platform  Email Client. LucaMail is developed to provide cross platform alternative to Email Clients
-that are really exists. LucaMail focuses on modern Technologies as well as maintaining a user friendly UI's. There exists  Email Clients which lacks at providing cross platform software,smooth UI,modern design techniques, and trending technologies. Where as a Solution LucaMail Provides all of these as a feature. 
-LucaMail is Bundled with 6 stunning themes.LucaMail is Leightweight, simple , os friendly too.
+LucaMail is an Open Source, Cross Platform Email Client. LucaMail is developed to provide cross platform alternative to proprietary/closed source email clients. LucaMail focuses on modern technologies as well as maintaining a clean and user friendly user interface. While existing email clients and LucaMail share the same functionality, LucaMail also offers a sleek user interface, stunning color themes and a simple to use enviroment that makes it stand out from their closed source counterparts.
+LucaMail is Bundled with 6 stunning themes. LucaMail is lightweight,simple and universally compatible across all operating systems.
 
-LucaMail Provides a Rich Text Editing Experience to send a Mail. Only the imap protocol is supported in beta version as many users doesn't seem to be using pop protocol.
-It comes with 3 pre-configurations for logging the user into the application. LucaMail stores the messages as files  under  the users home directory proceeded by luca directory.
+LucaMail provides a Rich Text Editing Experience to send emails. Currently, only the IMAP protocol is supported in beta version as many users doesn't seem to be using POP protocol.
+It comes with 3 pre-configurations for logging the user into the application. LucaMail stores the messages as files under the users home directory proceeded by luca directory.
 
-Some Feature may be lacking as it is a beta version but the bundled features are assumed to work in all perspective
-as long as a bug is detected 😀. So feel free to suggest changes by opening a new issue, or if you want to implement your own, feel free to fork this repo and create a pull request.you can also visit [Contributing Guide »](#contributing) to know more!
+Some Feature may be lacking as it is a beta version but the bundled features are assumed to work in all perspectives as long as a bug is detected 😀. So feel free to suggest changes by opening a new issue, or if you want to implement your own, feel free to fork this repo and create a pull request.you can also visit [Contributing Guide »](#contributing) to know more!
 
 
 ## Built With
 
-Whilst I am the main developer of this project, this project couldn't of even started without the help of these open source projects, special thanks to:
+Whilst I am the main developer of this project, this project wouldn't be possible without the help of these open source projects. A special thanks to:
 
 * [ElectronJs](https://www.electronjs.org/)
 * [ReactJS](https://reactjs.org/)
@@ -61,7 +59,7 @@ LucaMail can be installed in two ways.
 
 - Releases
 
-  head on to [Releases](https://github.com/raghavyuva/LucaMail/releases/latest) and find out the Suitable binary for your OS. and set executable permissions and run it.
+  head on to [Releases](https://github.com/raghavyuva/LucaMail/releases/latest) and find out the suitable binary for your OS. Make sure to set executable permissions and run it.
 
   ```sh
   wget https://github.com/raghavyuva/LucaMail/releases/latest/download/LucaMail-0.0.1-beta.AppImage
